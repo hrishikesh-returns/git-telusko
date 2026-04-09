@@ -5,3 +5,7 @@ manage data base
 closing connections on oracel database
 
 chnage 3
+
+dasdasdasd
+adasdasasd
+dasd
