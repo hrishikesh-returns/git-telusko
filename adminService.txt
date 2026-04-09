@@ -2,6 +2,6 @@ add and remove users
 define roles
 
 manage data base
-closing connections
+closing connections on mysql database
 
 chnage 3
