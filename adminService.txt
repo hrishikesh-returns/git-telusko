@@ -2,3 +2,4 @@ add and remove users
 define roles
 
 manage data base
+closing connections
